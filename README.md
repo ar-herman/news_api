@@ -2,7 +2,7 @@
 
 App ini mengunakan data Api "https://newsapi.org/"
 
-sangat simple membuatnya
+Ui dibuat ide dari otak langsung sehingga memiliki hasil Ui keren
 
 ![news](https://user-images.githubusercontent.com/101004239/169656607-58e549d7-9e32-48fb-b51a-d124f0c67b94.png)
 
