@@ -1,6 +1,11 @@
 # news_aplikasi
 
-A new Flutter project.
+App ini mengunakan data Api "https://newsapi.org/"
+
+sangat simple membuatnya
+
+![news](https://user-images.githubusercontent.com/101004239/169656607-58e549d7-9e32-48fb-b51a-d124f0c67b94.png)
+
 
 ## Getting Started
 
