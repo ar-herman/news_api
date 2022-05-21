@@ -4,6 +4,10 @@ App ini mengunakan data Api "https://newsapi.org/"
 
 Ui dibuat ide dari otak langsung sehingga memiliki hasil Ui keren
 
+tulisan code juga simple dan tidak susah bacanya
+
+gampang kan!!!! hehehhehe
+
 ![news](https://user-images.githubusercontent.com/101004239/169656607-58e549d7-9e32-48fb-b51a-d124f0c67b94.png)
 
 
